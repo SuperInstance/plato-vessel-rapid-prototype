@@ -1,5 +1,15 @@
 # ⚡ PLATO Vessel Rapid Prototype
 
+
+## Meta
+
+**Domain:** ai-agents
+**Depends on:** —
+**Depended by:** —
+**Implements:** Product developer iteration loop: describe a project → get BOM, wiring diagram, ...
+**Related:** —
+
+
 **Describe a project. Get a BOM, wiring diagram, and simulation. Every revision is a PLATO room.**
 
 For product developers who iterate fast. You think in features and tradeoffs — the agent handles BOM generation, vendor lookup, wiring validation, and version control for hardware.
